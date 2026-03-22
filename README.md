@@ -1,5 +1,5 @@
 hello hello!  
-i'm mariam (case-sensitive with a lowercase 'm'),  
+this is mariam (case-sensitive with a lowercase 'm'),  
 but u can call me meme too.  
   
 this space is a mix of creative coding, late-night curiosity, and things built purely out of nostalgia.  
